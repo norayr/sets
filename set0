@@ -1,7 +1,9 @@
-name                artist            orig_bpm  bpm 
-Lately              Fort Romeau       122       111       10:33
-Voyager Armenian greeting
-Keep in my plane    DJ Koze           120       116       07:20 
+name                artist            bpm_orig  bpm       dur_orig      in        out             remaining       dur
+2049                Hans Zimmer       147.94              03:37         00:00     02:10-02:23     01:37-01:14     2
+Lately              Fort Romeau       122       111       10:33         00:00     04:00-04:23     06:33-06:10     4
+Voyager Armenian greeting                                               ^01:55                    08:38
+Voyager Armenian greeting                                               ^02:55                    07:38
+Keep in my plane    DJ Koze           120       116       07:20         00:00                                         
 Down the wall       Cubicolor         110                 09:17
 Waves               Max Cooper        111                 05:31
 //Be the man          Andre Bratten                       6:24
